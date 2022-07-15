@@ -1,0 +1,116 @@
+{
+  "users": {
+    "6287898635798@s.whatsapp.net": {
+      "exp": 40,
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "6281511480762@s.whatsapp.net": {
+      "exp": 266,
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "6281225211638@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "120363041900503337@g.us": {
+      "exp": 8,
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "6285702255815@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "6285839814393@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "6285866846219@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "6288221320251@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    }
+  },
+  "chats": {
+    "120363041900503337@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiDelete": true,
+      "antiLink": true,
+      "viewOnce": true,
+      "expired": 0
+    }
+  },
+  "stats": {
+    "general-menu.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1657885173853,
+      "lastSuccess": 1657885173853
+    },
+    "creator.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1657885201676,
+      "lastSuccess": 1657885201676
+    },
+    "misc-speed.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1657885222799,
+      "lastSuccess": 1657885222799
+    },
+    "misc-tts.js": {
+      "total": 7,
+      "success": 3,
+      "last": 1657885492017,
+      "lastSuccess": 1657885492017
+    },
+    "downloader-tiktok.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1657885304240,
+      "lastSuccess": 0
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "6287898635798@s.whatsapp.net": {
+      "self": false,
+      "autoread": true,
+      "restrict": true
+    }
+  }
+}
